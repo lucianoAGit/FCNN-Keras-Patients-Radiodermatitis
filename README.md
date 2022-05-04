@@ -1,8 +1,7 @@
 # FCNN-Keras-Patients-Radiodermatitis
 
- Na prática oncológica moderna, a quimiorradiação simultânea, 
-uma combinação de quimioterapia e radioterapia, é o padrão de atendimento para 
-pacientes com câncer de cabeça e pescoço (CCP). Entretanto, apesar da eficiência 
+A quimiorradiação simultânea, uma combinação de quimioterapia e radioterapia, é o padrão de atendimento para 
+pacientes com câncer de cabeça e pescoço. Entretanto, apesar da eficiência 
 do processo, a quimiorradiação simultânea gera um aumento significativo na 
 incidência de efeitos coletareis, sendo os mais comuns a mucosite e a radiodermite 
 (MUZUMDER; SRIKANTIA; UDAYASHANKAR; KAINTHAJE et al., 2019).
